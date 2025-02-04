@@ -1,0 +1,4 @@
+chart: mimic-iii-clinical-database-1.4/CHARTEVENTS.csv.gz
+items_of_interest:
+    '226512' : ['Admission Weight (Kg)', 'WEIGHT', 'mean']
+    '226707' : ['Height', 'HEIGHT', 'mean']
